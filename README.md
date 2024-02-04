@@ -1,3 +1,8 @@
+## Demo
+
+The game includes sound too.
+
+![](https://github.com/rubysash/pirategems/blob/main/monsters.v18b.gif?raw=true)
 
 ## Installation
 ```
